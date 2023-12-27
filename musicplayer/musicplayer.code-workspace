@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Downloads/Spotify Clone/covers"
+		},
+		{
+			"path": "../Downloads/Spotify Clone/songs"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "musicplayer"
+	}
+}
